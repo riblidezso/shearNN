@@ -16,7 +16,7 @@ We present our results from training and evaluating a convolutional neural netwo
 
 ---
 
-### Examples faint galaxies
+### Example faint galaxies
 
 ![](ims/fig8.png)
 
